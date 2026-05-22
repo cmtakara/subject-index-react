@@ -1,0 +1,77 @@
+{
+    "subjects": [
+        {
+            "category": "AP Subjects",
+            "subject_list": [
+                {
+                    "sub_category": "math",
+                    "list": [
+                        "AP Calculus AB",
+                        "AP Calculus BC",
+                        "AP Computer Science A",
+                        "AP Computer Science Principles",
+                        "AP Precalculus",
+                        "AP Statistics"
+                    ]
+                },
+                {
+                    "sub_category": "science",
+                    "list": [
+                        "AP Physics 1",
+                        "AP Physics 2",
+                        "AP Physics C: Electricity and Magnetism",
+                        "AP Physics C: Mechanics"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "GED Subjects",
+            "subject_list": [
+                {
+                    "sub_category": "math",
+                    "list": [
+                        "number systems",
+                        "algebra",
+                        "geometry"
+                    ]
+                },
+                {
+                    "sub_category": "english",
+                    "list": [
+                        "grammar",
+                        "non-fiction",
+                        "fiction"
+                    ]
+                },
+                {
+                    "sub_category": "science",
+                    "list": [
+                        "biology",
+                        "earth science",
+                        "physical science"
+                    ]
+                },
+                {
+                    "sub_category": "social studies",
+                    "list": [
+                        "economics",
+                        "government",
+                        "world history"
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "apphysics1": [
+        {"number":1, "unit": "Kinematics", "weight": "10-15%"},
+        {"number":2, "unit": "Force and Translational Dynamics", "weight": "18-23%"},
+        {"number":3, "unit":"Work, Energy, and Power", "weight": "18-23%"},
+        {"number":4, "unit": "Linear Momentum", "weight": "10-15%"},
+        {"number":5, "unit": "Torque and Rotational Dynamics", "weight": "10-15%"},
+        {"number":6, "unit": "Energy and Momentum of Rotating Systems", "weight":"5-8%"},
+        {"number":7, "unit": "Oscillations"	, "weight": "5-8%"},
+        {"number":8, "unit": "Fluids", "weight": "10-15%"}
+    ]
+}
