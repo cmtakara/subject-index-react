@@ -6,6 +6,7 @@ function SubjectIndex() {
     return (
         <>
             <h1>Subjects</h1>
+            <h2>ONLY AP PHYSICS 1 HAS WORKING PATHS</h2>
             <p>The below list provides links to subjects and those resources.  It is a non-comprehensive list of subjects that I tutor.
                 Other topics include all math from elementary through high school, reading support, test preparation, and high school sciences.
             </p>
